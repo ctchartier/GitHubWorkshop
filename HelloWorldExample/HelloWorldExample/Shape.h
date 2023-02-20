@@ -4,8 +4,9 @@
 
 class Shape {
 protected:
-	float width;
 	float height;
+	float width;
+	
 
 public:
 	Shape(float width = 0, float height = 0);

@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "It's me, Connor Chartier\n";
     std::cout << "It's me, Nate Prickitt\n";
 }
 
